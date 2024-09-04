@@ -1,5 +1,5 @@
 const zekrUrl = "https://raw.githubusercontent.com/nawafalqari/azkar-api/56df51279ab6eb86dc2f6202c7de26c8948331c1/azkar.json";
-const surahUrl = "http://api.alquran.cloud/v1/surah/67" // سورة الملك
+const surahUrl = "https://api.alquran.cloud/v1/surah/67" // سورة الملك
 
 const douaaName = {
     MorningZekr: "أذكار الصباح",
